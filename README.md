@@ -2,7 +2,7 @@
 
 Alpha-Band Hub Disruptions as an EEG Biomarker for Alzheimer's Disease: A Graph-Theoretical Analysis of Frontal Midline Centrality
 
-<img width="4608" height="4608" alt="2026 Science Fair" src="https://github.com/user-attachments/assets/200b1c36-88ba-4b4b-9c21-e4acfd18b6d7" />
+<img width="4608" height="4608" alt="2026 Poster" src="https://github.com/user-attachments/assets/200b1c36-88ba-4b4b-9c21-e4acfd18b6d7" />
 
 # ABSTRACT:
 
@@ -31,3 +31,6 @@ This finding is consistent with compensatory hub loading, wherein degraded distr
 increased traffic through surviving frontal hubs. These results demonstrate that nodal centrality analysis of the Alpha-band
 provides a sensitive, non-invasive framework for AD classification. The high accuracy of a single-electrode feature offers
 significant potential for low-cost early-stage clinical screening protocols.
+
+
+MIT License

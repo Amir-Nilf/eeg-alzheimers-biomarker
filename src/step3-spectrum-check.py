@@ -1,10 +1,10 @@
 """
-STEP 3 — EEG Quality Check (Single Subject)
-=============================================
+STEP 3: EEG Quality Check (Single Subject)
 Loads one subject's EEG and plots the power spectrum
 to verify 1/f decay (normal) and alpha peak (~10 Hz).
 Diagnostic only — does not feed into main analysis.
 """
+
 import mne
 import matplotlib.pyplot as plt
 

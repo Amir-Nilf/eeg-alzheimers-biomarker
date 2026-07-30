@@ -1,5 +1,5 @@
 """
-STEP 8: Dual-Band Mechanistic Graph Metric Suite
+STEP 5: Dual-Band Mechanistic Graph Metric Suite
 Runs the full mechanistic metric suite for BOTH Alpha and Beta bands.
 
 Alpha band (8-13 Hz):

@@ -1,6 +1,5 @@
 """
-STEP 01
-Download Participant Metadata
+STEP 1: Download Participant Metadata
 - Downloads the participants.tsv from OpenNeuro ds004504 to inspect group labels before downloading EEG files.
 """
 

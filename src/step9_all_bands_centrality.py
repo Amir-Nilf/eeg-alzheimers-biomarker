@@ -1,6 +1,5 @@
 """
-HUB CENTRALITY ANALYSIS - ALL THREE BANDS
-==========================================
+STEP 9: HUB CENTRALITY ANALYSIS - ALL THREE BANDS
 Computes betweenness centrality statistics for all 19 electrodes across
 Theta, Alpha, and Beta bands.
 

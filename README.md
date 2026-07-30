@@ -1,4 +1,4 @@
-# eeg-alzheimers-topometric-biomarker
+# eeg-alzheimers-biomarker
 
 Alpha-Band Hub Disruptions as an EEG Biomarker for Alzheimer's Disease: A Graph-Theoretical Analysis of Frontal Midline Centrality
 

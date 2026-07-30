@@ -1,8 +1,7 @@
 """
 STEP 3: EEG Quality Check (Single Subject)
-Loads one subject's EEG and plots the power spectrum
-to verify 1/f decay (normal) and alpha peak (~10 Hz).
-Diagnostic only — does not feed into main analysis.
+- Loads one subject's EEG and plots the power spectrum to verify 1/f decay (normal) and alpha peak (~10 Hz).
+- Diagnostic only
 """
 
 import mne

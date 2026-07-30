@@ -1,18 +1,11 @@
 """
-STEP 4: Multi-Band Sweep with Robust Statistics
+STEP 4: Multi-Band Sweep with Statistics
   - Mann-Whitney U replaces independent t-test for each band comparison
     (non-parametric; appropriate for non-normal EEG metrics with small N)
   - Cohen's d reported for each band so effect magnitude is visible,
     not just significance
-  - Bonferroni correction applied across the 3 bands (α_corrected = 0.05/3 = 0.0167)
-    because running 3 tests on the same data inflates Type I error.
-    Both uncorrected and corrected significance flags are shown.
+  - Bonferroni correction applied across the 3 bands (α_corrected = 0.05/3 = 0.0167) because running 3 tests on the same data inflates Type I error. Both uncorrected and corrected significance flags are shown.
   - Global Efficiency AND Clustering Coefficient tested per band
-    (original only tested Efficiency)
-  - Results saved to multiband_results.csv with full statistics
-  - This justifies Beta band selection in your Methods section:
-    you can cite which band showed the strongest effect AND survived
-    multiple comparison correction.
 """
 
 import mne

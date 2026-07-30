@@ -1,5 +1,5 @@
 """
-STEP 2 — Full Cohort Download: AD + CN
+STEP 2: Full Cohort Download: AD + CN
   - Downloads ALL available AD (Group == 'A') and CN (Group == 'C') subjects
   - Excludes FTD (Group == 'F')
   - Uses openneuro-py to download derivatives only

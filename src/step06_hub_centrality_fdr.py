@@ -1,5 +1,5 @@
 """
-STEP 9: Hub Centrality Deep-Dive with FDR Correction
+STEP 6: Hub Centrality Deep-Dive with FDR Correction
 Primary finding pivot: the Fz hub disruption (d=0.945, p<0.0001) and
 Alpha-band network fragmentation are the headline results. This step
 performs a rigorous nodal analysis across all electrodes in both bands.

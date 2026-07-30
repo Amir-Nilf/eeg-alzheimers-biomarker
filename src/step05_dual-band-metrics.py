@@ -20,15 +20,6 @@ Metrics computed per band per subject:
   - Betweenness Centrality per electrode (nodal hub analysis)
 
 Statistics: Mann-Whitney U + Cohen's d for every metric x band.
-
-Output files:
-  - final_isef_data_dualband.csv  (long format: one row per subject per band)
-  - final_isef_data.csv           (wide format: one row per subject, used by Step 9)
-  - mechanistic_summary_dualband.csv
-  - {sub_id}_Alpha_connectivity.npy  and  {sub_id}_Beta_connectivity.npy
-
-Install note (run once if not already installed):
-    pip install python-louvain
 """
 
 import mne

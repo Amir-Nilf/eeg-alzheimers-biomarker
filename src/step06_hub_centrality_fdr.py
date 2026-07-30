@@ -4,8 +4,7 @@ Primary finding pivot: the Fz hub disruption (d=0.945, p<0.0001) and
 Alpha-band network fragmentation are the headline results. This step
 performs a rigorous nodal analysis across all electrodes in both bands.
 
-What this step does:
-  1. Loads the per-subject per-band data saved by Step 8.
+  1. Loads the per-subject per-band data saved.
   2. Tests every electrode's Betweenness Centrality for group differences
      (Mann-Whitney U) in both Alpha and Beta bands.
   3. Applies Benjamini-Hochberg FDR correction across all electrode × band
@@ -17,12 +16,10 @@ What this step does:
   5. Builds a topographic summary table sorted by effect size.
   6. Saves hub_centrality_results.csv for Step 10.
 
+NOTE:
 Why FDR over Bonferroni here:
-  Bonferroni at 38 tests requires p < 0.0013 to claim significance — too
-  conservative for exploratory nodal mapping where we expect spatially
-  correlated findings. Benjamini-Hochberg FDR controls the expected
-  proportion of false discoveries while preserving more true positives.
-  Both uncorrected and FDR-corrected significance are reported.
+  Bonferroni at 38 tests requires p < 0.0013 to claim significance which is too conservative for exploratory nodal mapping where we expect spatially correlated findings. Benjamini-Hochberg FDR controls the expected 
+  proportion of false discoveries while preserving more true positives. Both uncorrected and FDR-corrected significance are reported.
 """
 
 import pandas as pd

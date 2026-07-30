@@ -1,5 +1,5 @@
 """
-STEP 7: Multi-Band Sweep with Robust Statistics
+STEP 4: Multi-Band Sweep with Robust Statistics
   - Mann-Whitney U replaces independent t-test for each band comparison
     (non-parametric; appropriate for non-normal EEG metrics with small N)
   - Cohen's d reported for each band so effect magnitude is visible,

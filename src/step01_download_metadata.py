@@ -12,7 +12,6 @@ import os
 if not os.path.exists('data'):
     os.makedirs('data')
 
-
 print("Downloading participant metadata...")
 on.download(dataset='ds004504',
             target_dir='./data',

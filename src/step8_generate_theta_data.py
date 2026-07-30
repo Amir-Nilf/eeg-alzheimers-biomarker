@@ -1,6 +1,5 @@
 """
-THETA-BAND COMPLETE ANALYSIS
-=============================
+STEP 8: THETA-BAND COMPLETE ANALYSIS
 Generates ALL Theta-band data needed for figures:
   - 5 core metrics (Global Eff, Local Eff, Clustering, Path Length, Modularity Q)
   - 19 electrode betweenness centrality values

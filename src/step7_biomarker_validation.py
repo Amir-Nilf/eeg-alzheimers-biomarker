@@ -1,6 +1,5 @@
 """
-STEP 10 (REWRITTEN) — Biomarker Validation: Hub + Modularity Classifier
-========================================================================
+STEP 10: Biomarker Validation: Hub + Modularity Classifier
 Primary findings from Steps 8-9:
   1. Alpha Fz Betweenness Centrality  (p<0.0001, d~0.945) — headline
   2. Alpha Modularity Q               (p=0.045,  d=0.502) — fragmentation

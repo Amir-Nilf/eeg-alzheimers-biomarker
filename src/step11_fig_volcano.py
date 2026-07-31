@@ -1,17 +1,11 @@
 """
-FIGURE 2 (FIXED): VOLCANO PLOT - ALL THREE BANDS (REAL DATA ONLY)
-===================================================================
+FIGURE 2: VOLCANO PLOT - ALL THREE BANDS (REAL DATA ONLY)
 Shows all 57 electrode tests (19 electrodes × 3 bands) with FDR correction.
-
-REQUIRES:
-  - hub_centrality_results_ALL_BANDS.csv
 
 Color coding:
   - Pink circles = Theta band
   - Green circles = Alpha band  
   - Yellow circles = Beta band
-
-NO SYNTHETIC DATA - Uses only real hub centrality results.
 """
 
 import pandas as pd

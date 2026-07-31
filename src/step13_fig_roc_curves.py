@@ -1,19 +1,10 @@
 """
 COMPREHENSIVE ROC ANALYSIS - ALL BIOMARKER CANDIDATES
-======================================================
 Tests FOUR potential biomarkers:
 1. Alpha Fz Centrality (primary)
 2. Beta P4 Centrality (secondary)
 3. Alpha Modularity Q (mechanistic)
 4. Combined Fz + Modularity (multi-feature)
-
-Creates ROC figure with:
-- 4 ROC curves (clean, no overlap)
-- Detailed statistics table
-- Sensitivity/specificity at optimal thresholds
-- Interpretation guide
-
-USES 100% REAL DATA
 """
 
 import pandas as pd

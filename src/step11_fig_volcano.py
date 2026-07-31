@@ -1,5 +1,5 @@
 """
-FIGURE 2: VOLCANO PLOT - ALL THREE BANDS (REAL DATA ONLY)
+VOLCANO PLOT - ALL THREE BANDS (REAL DATA ONLY)
 Shows all 57 electrode tests (19 electrodes × 3 bands) with FDR correction.
 
 Color coding:

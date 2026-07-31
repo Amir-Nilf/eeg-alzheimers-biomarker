@@ -1,15 +1,6 @@
 """
-FIGURE 3 (FIXED): TOPOGRAPHY - ALL THREE BANDS (REAL DATA ONLY)
-=================================================================
+TOPOGRAPHY - ALL THREE BANDS
 Shows electrode-level effects on 3 scalp maps (Theta, Alpha, Beta).
-
-IMPROVEMENTS:
-  - BIGGER electrode circles (easier to see)
-  - Comprehensive legend with size/color key
-  - 100% REAL DATA from hub_centrality_results_ALL_BANDS.csv
-
-REQUIRES:
-  - hub_centrality_results_ALL_BANDS.csv
 """
 
 import numpy as np

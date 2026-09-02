@@ -4,8 +4,6 @@ Generates ALL Theta-band data needed for figures:
   - 5 core metrics (Global Eff, Local Eff, Clustering, Path Length, Modularity Q)
   - 19 electrode betweenness centrality values
   - Saves to theta_band_data.csv
-
-This script processes the ACTUAL EEG data - NO SYNTHETIC DATA.
 """
 
 import mne

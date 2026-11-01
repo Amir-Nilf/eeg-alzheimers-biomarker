@@ -2,7 +2,7 @@
 
 Alpha-Band Hub Disruptions as an EEG Biomarker for Alzheimer's Disease: A Graph-Theoretical Analysis of Frontal Midline Centrality
 
-<img width="4608" height="4608" alt="2026 Science Fair" src="https://github.com/user-attachments/assets/200b1c36-88ba-4b4b-9c21-e4acfd18b6d7" />
+<img width="4608" height="4608" alt="2026 Science Fair (1)" src="https://github.com/user-attachments/assets/f2c1d25b-2a68-4f90-a125-b497902bf1b6" />
 
 # ABSTRACT:
 
